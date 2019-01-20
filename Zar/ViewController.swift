@@ -25,10 +25,10 @@ class ViewController: UIViewController {
     @IBOutlet weak var oyuncuBirBitirBtnOut: UIButton!
     @IBOutlet weak var oyuncuİkiBitirBtnOut: UIButton!
     
-    // Zar değerlerini belirle
+    // Zar değerlerini belirle,
     let zarDeğer = (1...6)
     
-    // Taraf sayısını belirle
+    // Taraf sayısını belirle,
     let kimdenBaşlasınDeğer = (1...2)
     
     // Sıra, İlk Skor ve hedef skor belirle
