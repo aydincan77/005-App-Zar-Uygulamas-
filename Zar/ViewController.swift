@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    // Outlet bağlantılarını yap
+    // Outlet bağlantılarını yap.
     @IBOutlet weak var oyuncuİkiÇevirBtnOut: UIButton!
     @IBOutlet weak var oyuncuİkiMesajLblOut: UILabel!
     @IBOutlet weak var oyunBaşlaBtnOut: UIButton!
